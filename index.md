@@ -13,9 +13,9 @@
 
 # Projects
 * [Project One: Software Engineering](https://franklinaf.github.io/SoftwareEngineering.html)<br>
-* [Project One: Repository](https://franklinaf.github.io/SoftwareEngineering)<br>
-* [Project Two: DataStructuresAndAlgorithms](https://franklinaf.github.io/DataStructuresAndAlgorithms.md)<br>
-* [Project Two: Repository](https://franklinaf.github.io/DataStructuresAndAlgorithms)<br>
-* [Project Three: Databases](https://franklinaf.github.io/Databases.md)<br>
-* [Project Three: Repository](https://franklinaf.github.io/Databases)<br>
+* [Project One: Repository](https://github.com/FranklinAf/FranklinAf.github.io/tree/main/SoftwareEngineering)<br>
+* [Project Two: DataStructuresAndAlgorithms](https://franklinaf.github.io/DataStructuresAndAlgorithms.html)<br>
+* [Project Two: Repository](https://github.com/FranklinAf/FranklinAf.github.io/tree/main/DataStructuresAndAlgorithms)<br>
+* [Project Three: Databases](https://franklinaf.github.io/Databases.html)<br>
+* [Project Three: Repository](https://github.com/FranklinAf/FranklinAf.github.io/tree/main/Databases)<br>
 * [Code Review]<br>
