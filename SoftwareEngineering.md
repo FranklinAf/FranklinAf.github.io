@@ -1,6 +1,6 @@
 ---
 title: Software Engineering
-layout: template
+layout: default
 filename: SoftwareEngineering.md
 --- 
 
