@@ -12,7 +12,7 @@
   The third project I worked on was building a REST API for the first project database. It allows REST calls to interact with the first project that I build in SQL Server. All of these projects can be found in the section below.
 
 # Projects
-* [Project One: Software Engineering](https://franklinaf.github.io/SoftwareEngineering.md)<br>
+* [Project One: Software Engineering](SoftwareEngineering.md)<br>
 * [Project One: Repository](https://franklinaf.github.io/SoftwareEngineering)<br>
 * [Project Two: DataStructuresAndAlgorithms](https://franklinaf.github.io/DataStructuresAndAlgorithms.md)<br>
 * [Project Two: Repository](https://franklinaf.github.io/DataStructuresAndAlgorithms)<br>
