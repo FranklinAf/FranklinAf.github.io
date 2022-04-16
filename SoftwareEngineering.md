@@ -2,6 +2,7 @@
 title: Software Engineering
 layout: template
 filename: SoftwareEngineering.md
+theme: jekyll-theme-midnight
 --- 
 
 # Software Engineering
