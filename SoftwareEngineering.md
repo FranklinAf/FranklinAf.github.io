@@ -1,3 +1,9 @@
+---
+title: Software Engineering
+layout: template
+filename: SoftwareEngineering.md
+--- 
+
 # Software Engineering
 
 # Projects
