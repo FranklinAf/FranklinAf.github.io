@@ -2,7 +2,6 @@
 title: Software Engineering
 layout: template
 filename: SoftwareEngineering.md
-theme: midnight
 --- 
 
 # Software Engineering
